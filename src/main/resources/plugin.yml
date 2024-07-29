@@ -1,0 +1,11 @@
+name: ProjectsBaseZ
+version: '2024.8-alpha.1'
+main: com.zyneonstudios.projects.Preloader
+api-version: '1.16'
+commands:
+  timewatch:
+    aliases: [tw,ot,ontime]
+  speed:
+    aliases: [velocity]
+  gamemode:
+    aliases: [gm,sm,spielmodus]
